@@ -1,0 +1,7 @@
+C:\Users\Norbert\Desktop\Design and development of high-level object-oriented systems\Lab01\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Norbert\Desktop\Design and development of high-level object-oriented systems\Lab01\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\Norbert\Desktop\Design and development of high-level object-oriented systems\Lab01\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Norbert\Desktop\Design and development of high-level object-oriented systems\Lab01\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Design and development of high-level object-oriented systems\Lab01\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Design and development of high-level object-oriented systems\Lab01\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\Norbert\Desktop\Design and development of high-level object-oriented systems\Lab01\Lab01\Lab01\obj\Debug\Lab01.pdb
